@@ -4,8 +4,25 @@ background: #f5d9d5;
 font-family: 'Nunito', sans-serif ;
 }
 
+.blurb h2{
+  color: #EA1C2C;
+  font-weight: 100;
+  font-size: 2.5rem;
+}
+
+.blurb p{
+  color: #f498b8;
+  font-weight: 100;
+  font-size: 1.125rem;
+  line-height: 2;
+}
+
+.content{
+  margin-top: 100px;
+}
+
 #mainnav {
-  font-size: 1.5 rem;
+  font-size: 1.5rem;
   font-weight: 100;
 }
 
@@ -25,13 +42,13 @@ font-family: 'Nunito', sans-serif ;
   color: red;
 }
 
-#headinggroup h1{
+#headinggroup h2{
   font-weight: 100;
-  font-size: 4rem;
+  font-size: 3.8rem;
 }
 
-@media (max-width: 1500px) {
-  #headinggroup h1{
+@media (max-width: 1200px) {
+  #headinggroup h2{
     font-weight: 100;
     font-size: 3rem;
   }
