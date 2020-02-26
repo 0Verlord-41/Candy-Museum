@@ -24,3 +24,15 @@ font-family: 'Nunito', sans-serif ;
 #headinggroup span{
   color: red;
 }
+
+#headinggroup h1{
+  font-weight: 100;
+  font-size: 4rem;
+}
+
+@media (max-width: 1500px) {
+  #headinggroup h1{
+    font-weight: 100;
+    font-size: 3rem;
+  }
+}
