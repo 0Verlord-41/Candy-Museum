@@ -20,3 +20,7 @@ font-family: 'Nunito', sans-serif ;
 #mainnav .nav-link:hover {
   color: #EA1C2C;
 }
+
+#headinggroup span{
+  color: red;
+}
